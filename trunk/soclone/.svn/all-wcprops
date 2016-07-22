@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/28/trunk/soclone
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/27/trunk/soclone/views.py
+END
+shortcuts.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/soclone/shortcuts.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/soclone/__init__.py
+END
+http.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/soclone/http.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/16/trunk/soclone/settings.py
+END
+auth.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/15/trunk/soclone/auth.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/21/trunk/soclone/models.py
+END
+badges.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/5/trunk/soclone/badges.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/19/trunk/soclone/urls.py
+END
+context_processors.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/16/trunk/soclone/context_processors.py
+END
+diff.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/24/trunk/soclone/diff.py
+END
+questions.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/26/trunk/soclone/questions.py
+END

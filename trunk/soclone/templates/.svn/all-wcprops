@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/28/trunk/soclone/templates
+END
+tags.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/6/trunk/soclone/templates/tags.html
+END
+answer.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6/trunk/soclone/templates/answer.html
+END
+users.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/6/trunk/soclone/templates/users.html
+END
+badge.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/trunk/soclone/templates/badge.html
+END
+edit_answer.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/25/trunk/soclone/templates/edit_answer.html
+END
+question_list_user_details.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/soclone/templates/question_list_user_details.html
+END
+ask_question.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/25/trunk/soclone/templates/ask_question.html
+END
+add_answer.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/25/trunk/soclone/templates/add_answer.html
+END
+question.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/25/trunk/soclone/templates/question.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/trunk/soclone/templates/index.html
+END
+question_revisions.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/25/trunk/soclone/templates/question_revisions.html
+END
+login.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/6/trunk/soclone/templates/login.html
+END
+base.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/trunk/soclone/templates/base.html
+END
+unanswered.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/soclone/templates/unanswered.html
+END
+edit_question.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/25/trunk/soclone/templates/edit_question.html
+END
+question_comments.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/soclone/templates/question_comments.html
+END
+reopen_question.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11/trunk/soclone/templates/reopen_question.html
+END
+badges.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/soclone/templates/badges.html
+END
+logged_out.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/soclone/templates/logged_out.html
+END
+post_user_details.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/soclone/templates/post_user_details.html
+END
+base_2col.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6/trunk/soclone/templates/base_2col.html
+END
+retag_question.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/soclone/templates/retag_question.html
+END
+questions.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6/trunk/soclone/templates/questions.html
+END
+close_question.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11/trunk/soclone/templates/close_question.html
+END

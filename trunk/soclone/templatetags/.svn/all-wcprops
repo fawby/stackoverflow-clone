@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/20/trunk/soclone/templatetags
+END
+list_tags.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/20/trunk/soclone/templatetags/list_tags.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/soclone/templatetags/__init__.py
+END
+soclone_tags.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/15/trunk/soclone/templatetags/soclone_tags.py
+END
